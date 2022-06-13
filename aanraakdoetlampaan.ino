@@ -1,5 +1,5 @@
 #include <CapacitiveSensor.h>
-CapacitiveSensor touchSwitch = CapacitiveSensor(4, 2);
+CapacitiveSensor touchSwitch = CapacitiveSensor(4, 7);
 
 int LEDpin = 11;
 String Touch = "Touch"; 
